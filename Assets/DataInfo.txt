@@ -1,0 +1,5 @@
+Monedas.
+Monedas por Click
+Record.
+Veces Presionado.
+Coste Mejora.
